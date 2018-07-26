@@ -1,0 +1,13 @@
+current directory: /home/bojan/projects/StockTracker/stock-tracker-social-media-app/vendor/bundle/ruby/2.3.0/gems/json-2.1.0/ext/json
+/usr/bin/ruby2.3 -r ./siteconf20180726-31205-xogmrg.rb extconf.rb
+creating Makefile
+
+current directory: /home/bojan/projects/StockTracker/stock-tracker-social-media-app/vendor/bundle/ruby/2.3.0/gems/json-2.1.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/bojan/projects/StockTracker/stock-tracker-social-media-app/vendor/bundle/ruby/2.3.0/gems/json-2.1.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/bojan/projects/StockTracker/stock-tracker-social-media-app/vendor/bundle/ruby/2.3.0/gems/json-2.1.0/ext/json
+make "DESTDIR=" install
