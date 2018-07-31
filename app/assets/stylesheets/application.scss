@@ -12,6 +12,26 @@
  * It is generally better to create a new file per style scope.
  *
  *= require devise_bootstrap_views
+ *= require font-awesome
  *= require_tree .
  *= require_self
  */
+
+.logout {
+  padding-left: 0;
+}
+
+.user-name {
+  padding-top: 15px;
+}
+
+.nav.navbar-right li {
+  .btn {
+    color: #fff !important;
+    margin-top: 5%;
+  }
+}
+
+.btn-danger:hover {
+  background-color: darken(#d9534f, 20%) !important;
+}
